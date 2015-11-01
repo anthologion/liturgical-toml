@@ -1,0 +1,25 @@
+title = "Ninth Hour"
+
+order_of_service = [
+  usual_begining,
+  psalms,
+  doxa,
+  tropars,
+  now_and_ever,
+  prayers_of_the_hour1,
+  [trisagion, 3],
+  doxa,
+  now_and_ever,
+  all_holy_trinity,
+  [lord_have_mercy, 3]
+  doxa,
+  now_and_ever,
+  our_father,
+  kontakion,
+  [lord_have_mercy, 40],
+  prayers_of_the_hour2,
+  [lord_have_mercy, 3],
+  doxa,
+  now_and_ever,
+  prayers_of_the_hour3
+]
